@@ -1,0 +1,5 @@
+baseURL = "https://quikzensblog.netlify.app/"
+languageCode = "id-id"
+title = "Quikzens Blog"
+theme = "blog"
+disableKinds = ["taxonomy", "term"]

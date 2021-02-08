@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="id">
+<head>
+  {{- partial "head.html" . -}}
+  <link rel="icon" href="../../img/favicon.ico">
+  <link rel="stylesheet" href="../../css/main.css">
+</head>
+<body>
+  <main>
+    <article class="article">
+      <a href="/">Quikzens Blog</a>
+      <div class="article-content">
+        {{ .Content }}
+      </div>
+      <a href="/">Lihat artikel yang lainnya...</a>
+    </article>
+  </main>
+</body>
+</html>

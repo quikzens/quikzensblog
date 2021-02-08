@@ -9,7 +9,14 @@
       <h2>Daftar Artikel</h2>
       <p>(Untuk membaca artikelnya kamu sisa klik link dibawah)</p>
       <ul class="article-list">
-        <li>
+        {{ range .Pages }}
+          <li>
+            <a href="{{ .Permalink }}">
+              {{ .Title }}
+            </a>
+          </li> 
+        {{ end }}
+        <!-- <li>
           <a href="https://quikzensblog.netlify.app/iklan-dan-insecure/">
             Iklan, si brengsek penyebab wanita jadi insecure
           </a>
@@ -23,7 +30,7 @@
           <a href="https://quikzensblog.netlify.app/hadiah/">
             Hadiah
           </a>
-        </li>
+        </li> -->
       </ul>
     </section>
     <hr>

@@ -3,8 +3,6 @@ title: "Iklan, si brengsek penyebab wanita jadi insecure"
 date: 2021-02-07T21:47:55-08:00
 ---
 
-# Iklan, si brengsek penyebab wanita jadi insecure
-
 Aku orangnya gampang gabut, dan karena aku tak tau hal penting apa yang harus kukerjakan, aku jadi sering menonton TV. Saat aku menonton TV aku mulai menyadari 2 hal:
 
 1. Aku masih suka menonton film Spongebob di umur 17

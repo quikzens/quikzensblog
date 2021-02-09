@@ -2,7 +2,7 @@
   --black: #1A1A1A;
 
   max-width: 650px;
-  padding: 2rem;
+  padding: 1.5rem;
   margin: 0 auto;
   font-family: "Work Sans", sans-serif;
   color: var(--black);
@@ -23,8 +23,9 @@
   line-height: 1.1;
 }
 
-.article h1 {
-  margin-bottom: 0;
+.article h1,
+.article-title {
+  margin-bottom: 4rem;
   font-size: 2.5em;
 }
 

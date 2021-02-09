@@ -3,8 +3,6 @@ title: "Hadiah"
 date: 2021-02-05T13:55:58-08:00
 ---
 
-# Hadiah
-
 Tau tidak, menurutku didunia ini ada 2 tipe orang saat memberikan hadiah ke orang lain:
 
 ## Tipe 1:

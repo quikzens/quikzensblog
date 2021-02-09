@@ -10,7 +10,10 @@
     <article class="article">
       <a href="/">Quikzens Blog</a>
       <div class="article-content">
-        {{ .Content }}
+        <h1 class="article-title">{{ .Title }}</h1>
+        <div>
+          {{ .Content }}
+        </div>
       </div>
       <a href="/">Lihat artikel yang lainnya...</a>
     </article>

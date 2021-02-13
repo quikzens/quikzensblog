@@ -1,1 +1,72 @@
-@import "article.css";
+@import "modern-normalize.css";
+
+:root {
+  --black: #222;
+  --light-gray: #f5f5f5;
+}
+
+/* Global */
+body {
+  color: var(--black);
+  font-family: "Work Sans", sans-serif;
+  line-height: 1.45;
+}
+
+main {
+  margin: 0 auto;
+  padding: 1.75rem;
+  max-width: 650px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+p {
+  margin: 1.5rem 0;
+}
+
+hr {
+  margin: 3rem 0;
+  border: 0;
+  border-top: 1px solid var(--black);
+  opacity: 0.3;
+}
+
+ul, ol {
+  padding-left: 1.75rem;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1.05rem;
+  }
+}
+
+/* Article */
+.article-list li {
+  margin-bottom: 1rem;
+}
+
+.article {
+  margin: 4rem 0;
+}

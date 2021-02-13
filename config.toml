@@ -3,3 +3,5 @@ languageCode = "id-id"
 title = "Quikzens Blog"
 theme = "blog"
 disableKinds = ["taxonomy", "term"]
+[permalinks]
+  blog = "/:filename/"

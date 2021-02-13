@@ -15,7 +15,7 @@ body {
 main {
   margin: 0 auto;
   padding: 1.75rem;
-  max-width: 650px;
+  max-width: 600px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -60,6 +60,23 @@ ul, ol {
   body {
     font-size: 1.05rem;
   }
+}
+
+/* Brand Name */
+.brand-name {
+  margin-bottom: 3rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+  font-style: italic;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 0.9;
+  color: var(--black);
+}
+
+a.brand-name:hover {
+  text-decoration: underline;
 }
 
 /* Article */

@@ -69,8 +69,18 @@ li {
   }
 }
 
+/* Homepage */
+.my-photo {
+  display: block;
+  margin-top: 5rem;
+  max-width: 125px;
+  border-radius: 50%;
+  border: 2px solid var(--black);
+}
+
 /* Brand Name */
-.brand-name {
+.brand-name,
+.stylish-heading {
   margin-bottom: 3rem;
   font-size: 1.5rem;
   font-weight: 900;
@@ -80,6 +90,10 @@ li {
   text-decoration: none;
   line-height: 0.9;
   color: var(--black);
+}
+
+.stylish-heading {
+  margin-bottom: 2rem;
 }
 
 a.brand-name:hover {
@@ -93,4 +107,10 @@ a.brand-name:hover {
 
 .article {
   margin: 4rem 0;
+}
+
+/* Footer */
+.footer {
+  margin-top: 5rem;
+  font-size: 0.8em;
 }

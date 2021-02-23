@@ -1,5 +1,5 @@
 ---
-title: "Hadiah"
+title: "Hadiah, tapi dengan maksud tertentu"
 date: 2021-02-05T13:55:58-08:00
 ---
 
@@ -25,8 +25,7 @@ Orang yang memberikan hadiah **agar** orang yang dia berikan hadiah mau & rela m
 dia inginkan (ini teknik manipulasi yang sangat sering dilakukan)
 
 Atau yang lebih parah, orang yang memberikan hadiah ke orang yang dia suka **dan berharap** orang
-itu akan jadi suka juga sama dia (trying to buy people's love with objects & money? are you fucking 
-serious?)
+itu akan jadi suka juga sama dia (trying to buy people's love with objects & money? are you [fucking](/asal-kata-fuck) serious?)
 
 Orang seperti ini tak ikhlas saat memberikan hadiah, pernah melihat kasus dimana orang yang putus
 meminta kembali semua hadiah yang dia berikan ke mantan pacarnya? atau orang yang sering mengungkit-ungkit 

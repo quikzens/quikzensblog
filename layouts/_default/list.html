@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="id">
+<head>
+  {{- partial "head.html" . -}}
+  <link rel="icon" href="../img/favicon.ico">
+  <link rel="stylesheet" href="../css/main.css">
+</head>
+<body>
+  <main>
+    <a href="/" class="home-link">Quikzens Blog</a>
+    <section>
+      <h2 class="stylish-heading">(Semua) Tulisan <br> Di Quikzens Blog</h2>
+      <ul>
+        {{ range where .Site.RegularPages "Section" "blog" }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+    {{- partial "footer.html" . -}}
+  </main>
+</body>
+</html>
+

@@ -2,6 +2,9 @@
 
 :root {
   --black: #222;
+  --green: #388e3c;
+  --red: #f44336;
+  --link: var(--red);
   --light-gray: #f5f5f5;
 }
 
@@ -9,7 +12,7 @@
 body {
   color: var(--black);
   font-family: "Work Sans", sans-serif;
-  line-height: 1.45;
+  line-height: 1.5;
 }
 
 main {
@@ -34,15 +37,20 @@ h2 {
 }
 
 a {
-  color: inherit;
+  color: var(--link);
+  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 p {
   margin: 1.5rem 0;
+}
+
+img {
+  max-width: 100%;
 }
 
 hr {
@@ -56,14 +64,28 @@ ul, ol {
   padding-left: 1.75rem;
 }
 
+li {
+  margin-bottom: 0.5rem;
+}
+
 @media (min-width: 768px) {
   body {
     font-size: 1.05rem;
   }
 }
 
+/* Homepage */
+.my-photo {
+  display: block;
+  margin-top: 4rem;
+  max-width: 125px;
+  border-radius: 50%;
+  border: 2px solid var(--black);
+}
+
 /* Brand Name */
-.brand-name {
+.brand-name,
+.stylish-heading {
   margin-bottom: 3rem;
   font-size: 1.5rem;
   font-weight: 900;
@@ -73,6 +95,14 @@ ul, ol {
   text-decoration: none;
   line-height: 0.9;
   color: var(--black);
+}
+
+.stylish-heading {
+  margin-bottom: 2rem;
+}
+
+a.brand-name {
+  line-height: 0.8;
 }
 
 a.brand-name:hover {
@@ -86,4 +116,16 @@ a.brand-name:hover {
 
 .article {
   margin: 4rem 0;
+}
+
+/* Footer */
+.footer {
+  margin-top: 5rem;
+  font-size: 0.8em;
+}
+
+/* Link */
+.home-link {
+  display: block;
+  margin-bottom: 3rem;
 }

@@ -12,7 +12,7 @@
 body {
   color: var(--black);
   font-family: "Work Sans", sans-serif;
-  line-height: 1.45;
+  line-height: 1.5;
 }
 
 main {
@@ -124,6 +124,7 @@ a.brand-name:hover {
   font-size: 0.8em;
 }
 
+/* Link */
 .home-link {
   display: block;
   margin-bottom: 3rem;

@@ -1,7 +1,7 @@
 @import "modern-normalize.css";
 
 :root {
-  --black: #222;
+  --black: #212121;
   --green: #388e3c;
   --red: #f44336;
   --link: var(--red);
@@ -12,12 +12,13 @@
 body {
   color: var(--black);
   font-family: "Work Sans", sans-serif;
+  font-size: 16.5px;
   line-height: 1.5;
 }
 
 main {
   margin: 0 auto;
-  padding: 1.75rem;
+  padding: 3rem 1.5rem;
   max-width: 600px;
 }
 
@@ -29,11 +30,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2.1em;
 }
 
 h2 {
-  font-size: 1.4em;
+  margin-top: 3rem;
+  font-size: 1.6em;
 }
 
 a {
@@ -70,21 +72,18 @@ li {
 
 @media (min-width: 768px) {
   body {
-    font-size: 1.05rem;
+    font-size: 17px;
   }
 }
 
 /* Homepage */
 .my-photo {
   display: block;
-  margin-top: 4rem;
   max-width: 125px;
   border-radius: 50%;
   border: 2px solid var(--black);
 }
 
-/* Brand Name */
-.brand-name,
 .stylish-heading {
   margin-bottom: 3rem;
   font-size: 1.5rem;
@@ -101,12 +100,24 @@ li {
   margin-bottom: 2rem;
 }
 
-a.brand-name {
-  line-height: 0.8;
+/* Brand Name */
+.brand-name {
+  display: block;
+  width: 130px;
+  height: 69px;
+  margin-bottom: 3.5rem;
 }
 
-a.brand-name:hover {
-  text-decoration: underline;
+.brand-name img.hover {
+  display: none;
+}
+
+.brand-name:hover img.hover {
+  display: block;
+}
+
+.brand-name:hover img.default {
+  display: none;
 }
 
 /* Article */

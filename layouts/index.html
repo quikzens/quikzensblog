@@ -1,12 +1,7 @@
 {{ define "main" }}
 <div class="homepage">
 
-  <header>
-    <a href="/" class="brand-name">
-      <img src="./img/brand-logo.svg" alt="" class="default">
-      <img src="./img/brand-logo-hover.svg" alt="" class="hover">
-    </a>
-  </header>
+  {{- partial "header.html" . -}}
 
   <section>
     <img src="./img/photo.jpg" alt="Febrian Photo" class="my-photo">

@@ -7,12 +7,8 @@
 </head>
 <body>
   <main>
-    <header>
-      <a href="/" class="brand-name">
-        <img src="../img/brand-logo.svg" alt="" class="default">
-        <img src="../img/brand-logo-hover.svg" alt="" class="hover">
-      </a>
-    </header>
+
+    {{- partial "header.html" . -}}
 
     <article class="article">
       <div class="article-content">
@@ -23,7 +19,9 @@
       </div>
     </article>
     <a href="/blog/">Baca tulisan yang lainnya...</a>
+    
     {{- partial "footer.html" . -}}
+    
   </main>
 </body>
 </html>

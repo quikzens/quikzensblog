@@ -7,13 +7,9 @@
 </head>
 <body>
   <main>
-    <header>
-      <a href="/" class="brand-name">
-        <img src="../img/brand-logo.svg" alt="" class="default">
-        <img src="../img/brand-logo-hover.svg" alt="" class="hover">
-      </a>
-    </header>
     
+    {{- partial "header.html" . -}}
+
     <section>
       <h2 class="stylish-heading">(Semua) Tulisan <br> Di Quikzens Blog</h2>
       <ul>
@@ -24,7 +20,9 @@
         {{ end }}
       </ul>
     </section>
+
     {{- partial "footer.html" . -}}
+    
   </main>
 </body>
 </html>

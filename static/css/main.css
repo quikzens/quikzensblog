@@ -56,7 +56,8 @@ img {
 }
 
 hr {
-  margin: 3rem 0;
+  width: 30%;
+  margin: 4rem auto;
   border: 0;
   border-top: 1px solid var(--black);
   opacity: 0.3;
@@ -100,12 +101,15 @@ li {
   margin-bottom: 2rem;
 }
 
-/* Brand Name */
+/* Header */
+header {
+  margin-bottom: 5rem;
+}
+
 .brand-name {
   display: block;
   width: 130px;
   height: 69px;
-  margin-bottom: 3.5rem;
 }
 
 .brand-name img.hover {
@@ -133,10 +137,5 @@ li {
 .footer {
   margin-top: 5rem;
   font-size: 0.8em;
-}
-
-/* Link */
-.home-link {
-  display: block;
-  margin-bottom: 3rem;
+  text-align: center;
 }

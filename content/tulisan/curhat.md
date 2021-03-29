@@ -1,5 +1,5 @@
 ---
-title: "Saat ada orang yang curhat ke kita..."
+title: "Saat ada orang yang curhat ke kita"
 date: 2021-03-02T11:14:27+08:00
 ---
 

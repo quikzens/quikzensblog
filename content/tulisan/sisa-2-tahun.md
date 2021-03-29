@@ -1,5 +1,5 @@
 ---
-title: "Jika umurmu sisa 2 tahun lagi..."
+title: "Jika umurmu sisa 2 tahun lagi"
 date: 2021-02-20T13:01:08+08:00
 ---
 

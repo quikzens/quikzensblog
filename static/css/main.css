@@ -78,11 +78,12 @@ li {
 }
 
 /* Homepage */
-.my-photo {
-  display: block;
-  max-width: 125px;
-  border-radius: 50%;
-  border: 2px solid var(--black);
+.homepage-title {
+  font-size: 2rem;
+}
+
+.homepage-title span {
+  color: #f44336;
 }
 
 .stylish-heading {
@@ -108,8 +109,8 @@ header {
 
 .brand-name {
   display: block;
-  width: 130px;
-  height: 69px;
+  width: 80px;
+  height: 80px;
 }
 
 .brand-name img.hover {

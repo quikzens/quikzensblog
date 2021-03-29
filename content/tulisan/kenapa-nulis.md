@@ -11,12 +11,12 @@ So, aku mulai menulis dengan harapan itu bisa "membersihkan" pikiranku, dan hasi
 
 ---
 
-Lambat laun aku mulai berpikir, kenapa tak dijadikan karya saja? Aku jadi membuat tulisanku lebih "rapi" lagi, dan dengan sedikit kemampuan programming, aku membuat website dengan desain simple sesuai keinginanku, kemudian mulai mempublish tulisanku disana.
+Lambat laun aku mulai berpikir, kenapa tak dijadikan karya saja? Aku jadi membuat tulisanku lebih "rapi" lagi, dan dengan sedikit kemampuan programming, aku membuat website dengan desain simple sesuai keinginanku (kamu juga bisa menulis blog di Medium, Blogger, ataupun WordPress), kemudian mulai mempublish tulisanku disana.
 
 **Jika ada yang baca, aku harap itu bermanfaat buat mereka, jika tak ada yang baca, setidaknya itu sudah sangat bermanfaat bagi diriku sendiri.**
 
 ---
 
-Pada akhirnya, QuikzensBlog jadi tempatku "membersihkan" pikiran, berbagi opiniku, dan sekedar.. mengekspresikan diri.
+Pada akhirnya, QuikzensBlog jadi tempatku "membersihkan" pikiran, berbagi opiniku, dan.. sekedar mengekspresikan diri.
 
 Dan mau tau apa manfaat terbesar yang kudapatkan dari menulis? Aku jadi tak punya waktu -- untuk membuang-buang waktu -- dengan menonton wanita seksi berbaju sobek berjoget tak jelas di TikTok, Yeay!

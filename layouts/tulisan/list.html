@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="id">
 <head>
+  <title>Tulisan | QuikzensBlog</title>
   {{- partial "head.html" . -}}
   <link rel="icon" href="../img/favicon.ico">
   <link rel="stylesheet" href="../css/main.css">
@@ -11,7 +12,8 @@
     {{- partial "header.html" . -}}
 
     <section>
-      <h2 class="stylish-heading">Tulisan-tulisanku</h2>
+      <h2 class="stylish-heading">Tulisan</h2>
+      <p>Dibawah ini adalah semua tulisan yang aku buat di blog ini, diurutkan dari yang terbaru. Silahkan menikmati tulisan yang akan menyinggung dan menamparmu dengan realita ini!</p>
       <ul>
         {{ range .Pages }}
           <li>
@@ -26,4 +28,3 @@
   </main>
 </body>
 </html>
-

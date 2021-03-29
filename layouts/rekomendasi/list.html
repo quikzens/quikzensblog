@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <title>Rekomendasi | QuikzensBlog</title>
+  {{- partial "head.html" . -}}
+  <link rel="icon" href="../img/favicon.ico">
+  <link rel="stylesheet" href="../css/main.css">
+</head>
+<body>
+  <main>
+    
+    {{- partial "header.html" . -}}
+
+    <section>
+      <h2 class="stylish-heading">Rekomendasi</h2>
+      <p>Selama "malang melintang" di dunia per-internetan ini, aku telah menemukan banyak sekali konten dan orang-orang yang menurutku menginspirasi, unik, dan memberikan banyak sekali manfaat untukku.
+      Tentu saja, hampir semua tulisan yang kubuat di blog ini sudah pasti sedikit banyak dipengaruhi & terinspirasi dari konten dan orang-orang ini.</p>
+      <p>Jadi aku berniat merekomendasikan konten-konten yang menurutku bermanfaat untuk kamu, setidaknya agar kamu mulai menggunakan internet untuk mengakses hal-hal yang bermanfaat, bukan menghabiskan detik-detik berharga dalam hidupmu hanya untuk sekedar mengikuti gosip tentang artis yang tak ada habisnya itu:</p>
+      <ul>
+        {{ range .Pages }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </section>
+
+    {{- partial "footer.html" . -}}
+    
+  </main>
+</body>
+</html>

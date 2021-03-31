@@ -19,7 +19,7 @@ Nah, sekarang aku akan menuliskan 6 kata-kata motivasi yang menurutku bullshit, 
 So, kalau kamu siap menghadapi realita & siap pula merasa tertampar, silahkan lanjutkan membaca:
 
 1. [Jangan sedih bro, hidup itu harus bahagia terus! Pokoknya jangan sedih!](/jangan-sedih/)
-2. Kamu harus selalu berpikir positif! Optimis! Pokoknya harus positif terus!
+2. [Kamu harus selalu berpikir positif! Optimis! Pokoknya harus positif terus!](/toxic-positivity/)
 3. Kamu itu spesial!
 4. Bekerja keraslah, maka kamu akan sukses!
 5. Percayalah, kamu bisa mendapatkan apapun yang kamu mau didunia ini, apapun!

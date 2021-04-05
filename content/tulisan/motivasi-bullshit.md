@@ -20,7 +20,7 @@ So, kalau kamu siap menghadapi realita & siap pula merasa tertampar, silahkan la
 
 1. [Jangan sedih bro, hidup itu harus bahagia terus! Pokoknya jangan sedih!](/jangan-sedih/)
 2. [Kamu harus selalu berpikir positif! Optimis! Pokoknya harus positif terus!](/toxic-positivity/)
-3. Kamu itu spesial!
+3. [Kamu itu spesial!](/spesial/)
 4. Bekerja keraslah, maka kamu akan sukses!
 5. Percayalah, kamu bisa mendapatkan apapun yang kamu mau didunia ini, apapun!
 6. Biarkan orang lain menerima kamu apa adanya

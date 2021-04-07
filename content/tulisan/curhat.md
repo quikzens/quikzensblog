@@ -25,10 +25,10 @@ Pertama, aku **tak akan** memberikan "motivasi pasaran" seperti:
 
 - sabar aja ya...
 - ikhlas aja ya...
-- kamu tuh gak boleh sedih! kamu harus semangat!
+- kamu tuh [gak boleh sedih](/jangan-sedih/)! kamu harus semangat!
 - itumah masalah sepele! aku pernah ngalamin masalah yang lebih buruk daripada ini, aku gak sedih seperti itu kok! (niat beri motivasi, malah adu nasib, brengsek)
 
-Bisa saja dia sudah mendapatkan "motivasi" seperti ini dari orang lain, dia udah bosan & eneg, bahkan ini bisa berakhir pada **toxic positivity**.
+Bisa saja dia sudah mendapatkan "motivasi" seperti ini dari orang lain, dia udah bosan & eneg, bahkan ini bisa berakhir pada [toxic positivity](/toxic-positivity/).
 
 ## Bagaimana dengan saran atau bantuan? Itu tergantung...
 
@@ -45,4 +45,4 @@ Sebelumnya, **aku akan memastikan kalau orang itu benar-benar membutuhkan & memi
 
 ---
 
-Catatan penting, cara diatas tidak 100% mutlak, bisa berbeda tergantung situasi dan kondisi. So, sesuaikan. And. Gook Luck!
+Catatan penting, cara diatas tidak 100% mutlak, bisa berbeda tergantung situasi dan kondisi. So, sesuaikan dan... Good Luck!

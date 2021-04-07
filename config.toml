@@ -1,4 +1,4 @@
-baseURL = "https://quikzensblog.netlify.app/"
+baseURL = "https://quikzens.netlify.app/"
 languageCode = "id-id"
 title = "QuikzensBlog"
 disableKinds = ["taxonomy", "term"]

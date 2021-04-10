@@ -14,13 +14,13 @@
     <section>
       <h1 class="stylish-heading">Tulisan</h1>
       <p>Dibawah adalah semua tulisan yang aku buat di blog ini, diurutkan dari yang terbaru:</p>
-      <ul class="list-tulisan">
+      <ol class="list-tulisan" reversed>
         {{ range .Pages }}
           <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
           </li>
         {{ end }}
-      </ul>
+      </ol>
     </section>
 
     {{- partial "footer.html" . -}}

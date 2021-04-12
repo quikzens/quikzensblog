@@ -22,7 +22,7 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Yang kebanyakan orang suka, biasanya aku tidak**: Video lucu tiktok, joget depan kamera, k-pop, bola, artis-artis, nilai ijazah -- aku tak tertarik membahas tentang itu. Ini bikin aku susah nyambung dengan kebanyakan orang, aku anggap mereka nge-bosenin, mereka anggap aku gak asik.
 
-- **Punya sedikit teman**: aku punya banyak kenalan, tapi teman yang sering aku temui buat nongkrong -- bisa di itung jari. Bisa jadi karena aku susah nyambung dengan mereka.
+- **Punya sedikit teman**: aku punya banyak kenalan, tapi teman yang sering aku temui buat nongkrong -- bisa di itung jari -- itu-itu aja. Bisa jadi karena aku susah nyambung dengan kebanyakan orang.
 
 - **Suka waktu sendiri**: selama topiknya menarik, aku suka bicara dengan orang lain (jadi extrovert dadakan malah), tapi setelah 2 jam lebih -- aku capek, butuh waktu sendiri. Waktu sendiri yang tenang tanpa keributan bikin aku ngerasa lebih fokus & kreatif. Ngerasa kesepian? sering, tapi menurutku itu normal-normal aja asal gak berlebihan.
 
@@ -82,9 +82,9 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 ---
 
-Karena semua hal bakal berubah, pasti halaman ini bakal butuh diupdate suatu saat nanti, aku bakal suka dengan hal berbeda, atau aku jadi gak suka lagi pada hal yang dulu aku suka (atau sebaliknya).
+PS: Semua hal bakal berubah, aku termasuk. Kalo aku berubah suatu saat nanti, artinya halaman ini juga butuh diupdate.
 
-So, terimakasih sudah kepo sampai akhir!
+Anyway, thank you sudah kepo sampai akhir!
 
 ---
 

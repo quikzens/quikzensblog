@@ -18,27 +18,17 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 ## "Fakta-fakta" tentangku
 
-- **Aku suka dengan hal yang simple & polos**: Suka pakai baju polos hitam, tak suka memasang stiker untuk benda apapun, tak suka memakai baju yang pakainya aja ngambil banyak waktu seperti celana yang harus pake ikat pinggang, sepatu ikat, dsb (kalo terpaksa, baru aku pake).
+- **Aku suka dengan hal yang simple & polos**: Suka pakai baju polos hitam, tak suka memasang stiker untuk benda apapun, tak suka memakai baju yang pakainya aja ngambil banyak waktu seperti celana yang harus pake ikat pinggang, sepatu ikat, dsb (kalo terpaksa, baru aku pake). Intinya, semakin simple, minimalis, & polos (namun tetap berguna) -- aku suka.
 
-Intinya, semakin simple, minimalis, & polos (namun tetap berguna) -- aku suka.
-
-- **Yang kebanyakan orang suka, biasanya aku tidak**: Video lucu tiktok (atau sosial media lain), joget depan kamera, k-pop, bola, artis-artis, nilai ijazah -- aku gak tertarik membahas tentang itu.
-
-Ini bikin aku susah nyambung dengan kebanyakan orang, aku anggap mereka nge-bosenin, mereka anggap aku gak asik.
+- **Yang kebanyakan orang suka, biasanya aku tidak**: Video lucu tiktok, joget depan kamera, k-pop, bola, artis-artis, nilai ijazah -- aku tak tertarik membahas tentang itu. Ini bikin aku susah nyambung dengan kebanyakan orang, aku anggap mereka nge-bosenin, mereka anggap aku gak asik.
 
 - **Punya sedikit teman**: aku punya banyak kenalan, tapi teman yang sering aku temui buat nongkrong -- bisa di itung jari. Bisa jadi karena aku susah nyambung dengan mereka.
 
-- **Suka waktu sendiri**: selama topiknya menarik, aku suka bicara dengan orang lain (jadi extrovert dadakan malah), tapi setelah 2 jam lebih -- aku capek, butuh waktu sendiri. Waktu sendiri yang tenang tanpa keributan bikin aku ngerasa lebih fokus & kreatif.
-
-Ngerasa kesepian? sering, tapi menurutku itu normal-normal aja asal gak berlebihan.
+- **Suka waktu sendiri**: selama topiknya menarik, aku suka bicara dengan orang lain (jadi extrovert dadakan malah), tapi setelah 2 jam lebih -- aku capek, butuh waktu sendiri. Waktu sendiri yang tenang tanpa keributan bikin aku ngerasa lebih fokus & kreatif. Ngerasa kesepian? sering, tapi menurutku itu normal-normal aja asal gak berlebihan.
 
 - **Gak tertarik dengan tradisi**: aturan-aturan yang orang "dulu" buat yang jika tak dilakukan bakal ada akibatnya (jangan begini, harus begitu) -- aku gak percaya. Banyak orang yang gak ngikutin tradisi itu, hidupnya gak kenapa-napa.
 
-Budaya adalah hal yang berbeda, nunjukin bahwa kita semua bisa hidup dengan cara yang berbeda-beda -- namun tetap jadi manusia yang berfungsi & bahagia, aku suka.
-
-- **Gak suka tergantung**: banyak orang yang bergantung pada nilai, ijazah, gelar, dan belas kasih guru -- aku gak cocok dengan itu (kecuali terpaksa). Itu membuatku jadi orang dengan **external locus of control**, terlalu fokus dengan hal-hal luar yang gak bisa dikontrol. 
-
-Banyak orang yang bergantung pada "cinta" pasangannya (atau pacar) sebagai validasi kalo dia itu berharga dan berarti, itu sangat mengerikan!
+- **Gak suka tergantung**: banyak orang yang bergantung pada nilai, ijazah, gelar, dan belas kasih guru -- aku gak cocok dengan itu (kecuali terpaksa). Itu membuatku jadi orang dengan **external locus of control**, terlalu fokus dengan hal-hal luar yang gak bisa dikontrol. Banyak juga yang bergantung pada "cinta" sebagai validasi kalo dia itu berharga dan berarti, itu sangat mengerikan!
 
 ## Hal-hal spesifik yang aku suka
 
@@ -82,13 +72,11 @@ Banyak orang yang bergantung pada "cinta" pasangannya (atau pacar) sebagai valid
 
 ## Beberapa mindset yang aku pegang
 
-- **No label**: aku tak suka melabeli orang lain sebagai bodoh, negatif, dsb. Mereka **hanya orang yang sering bertindak bodoh & negatif**, tapi melabeli mereka sebagai orang negatif? itu jahat.
+- **No label**: aku tak suka melabeli orang lain sebagai bodoh, negatif, dsb. Mereka **hanya orang yang sering bertindak bodoh & negatif**, tapi melabeli mereka sebagai orang negatif? itu berlebihan.
 
 - **Aku gak spesial**: [kamu juga tidak](/spesial/)
 
-- **Aku selalu salah**: saat ada hal buruk yang terjadi, aku akan cari kesalahanku dulu (pasti ada, sekecil apapun), baru lihat kesalahan orang lain. Sadar kalau aku juga salah, lebih bijak daripada menganggap kalau aku selalu benar 100%.
-
-Aku juga tak percaya kalau mindsetku yang paling benar.
+- **Aku selalu salah**: saat ada hal buruk yang terjadi, aku akan cari kesalahanku dulu (pasti ada, sekecil apapun), baru lihat kesalahan orang lain. Sadar kalau aku juga salah, lebih bijak daripada menganggap kalau aku selalu benar 100%. Aku juga tak percaya kalau mindsetku yang paling benar.
 
 - **Semua bakal berubah**: teman-temanku, keluargaku, bahkan aku sendiri -- bakal berubah suatu saat nanti, entah itu kesukaan, sifat, atau mindset -- gak bakal sama selamanya. Teman yang dulunya bagaikan saudara tak sedarah, sekarang seperti orang asing karena beda frekuensi? menurutku itu normal. **No change, no grow. No grow, no life**.
 
@@ -100,4 +88,4 @@ So, terimakasih sudah kepo sampai akhir!
 
 ---
 
-Terakhir diupdate 11 April 2021.
+Terakhir diupdate 12 April 2021.

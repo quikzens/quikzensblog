@@ -38,3 +38,7 @@ Daripada mengejar hal yang gak penting & gak bisa dikontrol (seperti disukai & d
 Lebih baik mengejar hal yang penting aja & bisa kamu kontrol (seperti martabak dan bahagia dunia akhirat)
 
 Hidup simple amigo, jangan minta yang aneh-aneh, kejar yang penting bagi kamu, yang gak penting & mustahil untuk didapatkan? ikhlaskan aja.
+
+---
+
+Hai! tulisan ini adalah bagian kelima dari [#MotivasiBullshit](/motivasi-bullshit/), kumpulan dari motivasi-motivasi omong kosong dan tidak realistis yang aku temukan di internet, jangan lupa untuk baca bagian lainnya agar brengsekmu berkurang!

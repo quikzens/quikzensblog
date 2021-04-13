@@ -23,5 +23,10 @@ So, kalau kamu siap menghadapi realita & siap pula merasa tertampar, silahkan la
 3. [Kamu itu spesial!](/spesial/)
 4. [Bekerja keraslah, maka kamu akan sukses!](/kerja-keras/)
 5. [Percayalah, kamu bisa mendapatkan apapun yang kamu mau didunia ini, apapun!](/apapun/)
-6. Biarkan orang lain menerima kamu apa adanya
-7. \[Penutup\] Penyakit baru: kelaparan motivasi
+6. [Biarkan orang lain nerima kamu apa adanya](/apa-adanya/)
+
+Aku mau kamu ngerti, beberapa motivasi yang kamu lihat diluar sana itu -- cuma motivasi yang terlalu berlebihan, gak realistis, dan malah bikin kamu punya pola pikir yang salah & merugikan diri sendiri/orang lain.
+
+Hidup realistis tapi tetap optimis, jangan bergantung sama motivasi external nan dangkal, sadar kalo "it's okay to not be okay", jangan menyerah untuk tetap bernafas, dan tetaplah waras amigo!
+
+Cheers!!

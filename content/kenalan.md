@@ -28,13 +28,13 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Gak tertarik dengan tradisi**: aturan-aturan yang orang "dulu" buat yang jika tak dilakukan bakal ada akibatnya (jangan begini, harus begitu) -- aku gak percaya. Banyak orang yang gak ngikutin tradisi itu, hidupnya gak kenapa-napa.
 
-- **Gak suka tergantung**: banyak orang yang bergantung pada nilai, ijazah, gelar, dan belas kasih guru -- aku gak cocok dengan itu (kecuali terpaksa). Itu membuatku jadi orang dengan **external locus of control**, terlalu fokus dengan hal-hal luar yang gak bisa dikontrol. Banyak juga yang bergantung pada "cinta" sebagai validasi kalo dia itu berharga dan berarti, itu sangat mengerikan!
+- **Gak suka tergantung**: banyak orang yang bergantung pada nilai, ijazah, gelar, belas kasih guru, atau "cinta" sebagai validasi kalo dia itu berharga dan berarti -- aku gak cocok dengan itu. Itu membuatku jadi orang dengan **external locus of control**, terlalu fokus dengan hal-hal luar yang gak bisa dikontrol.
 
 ## Hal-hal spesifik yang aku suka
 
 - **Buat sesuatu**: dulu rumah-rumahan dari kardus dan mobil-mobilan dari tanah, sekarang aku suka buat blog, website, program, desain. Membuat sesuatu adalah hobiku.
 
-- **Programming**: aku paling suka lihat kode program yang berwarna-warni dengan tema dark, membuat program/website dimana aku yang mengatur semua hal yang terjadi didalamnya adalah hal yang sangat menyenangkan, aku juga suka problem solving (stress diawal, ngerasa genius kalo masalahnya selesai)
+- **Programming**: aku paling suka lihat kode program berwarna-warni dengan tema dark, membuat program/website dimana aku yang mengatur semua hal yang terjadi didalamnya itu sangat menyenangkan, ditambah problem solving (stress diawal, ngerasa genius kalo masalahnya selesai)
 
 ![gambar](../img/prog.png)
 
@@ -44,35 +44,35 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 ![gambar](../img/design-2.png)
 ![gambar](../img/design-3.png)
 
-- **Writing**: dengan adanya blog ini, sudah jelas [aku suka nulis](/kenapa-nulis/), bakal kulakuin meski gak dapat duit.
+- **Writing**: dengan adanya blog ini, sudah jelas [aku suka nulis](/kenapa-nulis/).
 
-- **Reading**: membaca salah satu kebutuhanku, uangku habis banyak buat beli buku, aku lahap habis satu novel dalam 1-2 hari (kalo nganggur), saat membaca aku serius, aku bisa berimajinasi dan seolah-olah merasakan sendiri jalan ceritanya -- hal yang gak bakal aku dapat saat nonton film.
+- **Reading**: membaca salah satu kebutuhanku, uangku habis banyak buat beli buku, aku lahap habis satu novel dalam 1-2 hari (kalo nganggur). Saat membaca aku serius, berimajinasi dan seolah-olah merasakan sendiri jalan ceritanya.
 
 - **Movie**: aku suka film "full-imagination" seperti Avengers & sains-fiksi lainnya, tapi tidak dengan film romantis/semi-porn/full-drama.
 
-- **Drawing**: mungkin lebih cocok kalau dibilang nge-jiplak, aku akan cari gambar diinternet, menyalakan musik, minum kopi, dan mulai membuat ulang gambar yang aku dapat -- dan jadi orang serius yang tak peduli keadaan sekitar.
+- **Drawing**: mungkin lebih cocok kalau dibilang nge-jiplak, aku akan cari gambar di internet, nyalakan musik, minum kopi, dan mulai menggambar -- jadi orang serius yang tak peduli keadaan sekitar.
 
 ![gambar](../img/drawing-1.jpg)
 ![gambar](../img/drawing-2.jpg)
 ![gambar](../img/drawing-3.jpg)
 
-- **Kopi & teh**: aku minum hampir setiap hari.
+- **Kopi & teh**.
 
 ## Hal-hal spesifik yang aku gak suka
 
 - **Memberi & menerima hadiah**: entah karena aku pelit atau [karena beberapa hadiah, diberikan dengan maksud tertentu](/hadiah/).
 
-- **Penampilanku dipuji**: aku ngerasa sangat senang kalau ada yang bilang aku ganteng (kenyataan sih), lama-kelamaan aku gak suka, seolah-olah hal yang berharga dari diriku cuma muka doang, keluar rumah dengan pusing tentang apa yang orang pikirkan tentang penampilanku -- itu sangat menyedihkan.
+- **Dipuji soal penampilan**: seolah-olah hal yang berharga dari diriku cuma muka doang.
 
-- **Negativity**: orang yang lebih sering mengeluh daripada optimis, drama, gosip perceraian artis, akan kujauhi. Lebih sedikit, lebih baik.
+- **Negativity**: orang yang mengeluh setiap menit, drama, gosip perceraian, akan kujauhi sebisa mungkin.
 
-- **Merasa benar**: menganggap aku benar 100% & orang lain salah 100%, aku gak suka sifat seperti itu, cuma menghasilkan banyak kebencian & beban pikiran.
+- **Merasa benar**: menganggap aku benar 100% & orang lain salah 100%, aku gak suka, sifat seperti itu bikin aku jadi susah maafkan orang lain. 
 
-- **Pekerjaan membosankan**: menyalin buku sama persis seperti yang dibuku cetak, menghafal hal-hal yang bisa dicari di google, dan pekerjaan-pekerjaan membosankan lainnya.
+- **Pekerjaan membosankan**: menyalin buku sama persis seperti di buku cetak, menghafal hal-hal yang bisa dicari di google, dsb.
 
 ## Beberapa mindset yang aku pegang
 
-- **No label**: aku tak suka melabeli orang lain sebagai bodoh, negatif, dsb. Mereka **hanya orang yang sering bertindak bodoh & negatif**, tapi melabeli mereka sebagai orang negatif? itu berlebihan.
+- **No label**: tak ada orang bodoh, pintar, atau negatif. Yang ada cuma orang **yang bertindak** bodoh, pintar, atau negatif.
 
 - **Aku gak spesial**: [kamu juga tidak](/spesial/)
 
@@ -82,7 +82,7 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 ---
 
-PS: Semua hal bakal berubah, aku termasuk. Kalo aku berubah suatu saat nanti, artinya halaman ini juga butuh diupdate.
+Semua hal bakal berubah, aku termasuk. Kalo aku berubah suatu saat nanti, artinya halaman ini juga butuh diupdate.
 
 Anyway, thank you sudah kepo sampai akhir!
 

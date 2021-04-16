@@ -5,3 +5,4 @@ disableKinds = ["taxonomy", "term"]
 [permalinks]
   tulisan = "/:filename/"
   rekomendasi = "/:filename/"
+  buku = "/:filename/"

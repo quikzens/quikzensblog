@@ -30,7 +30,7 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Gak suka tergantung**: banyak orang yang bergantung pada nilai, ijazah, gelar, belas kasih guru, atau "cinta" sebagai validasi kalo dia itu berharga dan berarti -- aku gak cocok dengan itu. Itu membuatku jadi orang dengan **external locus of control**, terlalu fokus dengan hal-hal luar yang gak bisa dikontrol.
 
-## Hal-hal spesifik yang aku suka
+## Hal-hal lain yang aku suka
 
 - **Buat sesuatu**: dulu rumah-rumahan dari kardus dan mobil-mobilan dari tanah, sekarang aku suka buat blog, website, program, desain. Membuat sesuatu adalah hobiku.
 
@@ -58,11 +58,11 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Kopi & teh**.
 
-## Hal-hal spesifik yang aku gak suka
+## Hal-hal lain yang aku gak suka
 
 - **Memberi & menerima hadiah**: entah karena aku pelit atau [karena beberapa hadiah, diberikan dengan maksud tertentu](/hadiah/).
 
-- **Dipuji soal penampilan**: seolah-olah hal yang berharga dari diriku cuma muka doang.
+- **Dipuji soal penampilan**: seolah-olah hal yang berharga dari diriku cuma muka doang. Aku juga gak suka harus keluar rumah dengan pusing tentang apa yang orang pikirkan tentang penampilanku.
 
 - **Negativity**: orang yang mengeluh setiap menit, drama, gosip perceraian, akan kujauhi sebisa mungkin.
 

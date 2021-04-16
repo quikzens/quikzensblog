@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="id">
+<head>
+  {{- partial "head.html" . -}}
+  <link rel="icon" href="../../img/favicon.ico">
+  <link rel="stylesheet" href="../../css/main.css">
+</head>
+<body>
+  <main>
+
+    {{- partial "header.html" . -}}
+
+    <article class="article">
+      <div class="article-content">
+        <h1 class="stylish-heading">{{ .Title }}</h1>
+        <div>
+          {{ .Content }}
+        </div>
+      </div>
+    </article>
+    <a href="/buku/">Baca buku yang lainnya...</a>
+
+    {{- partial "footer.html" . -}}
+
+  </main>
+</body>
+</html>

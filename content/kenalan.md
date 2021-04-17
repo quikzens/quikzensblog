@@ -24,11 +24,11 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Punya sedikit teman**: aku punya banyak kenalan, tapi teman yang sering aku temui buat nongkrong -- bisa di itung jari -- itu-itu aja. Bisa jadi karena aku susah nyambung dengan kebanyakan orang.
 
-- **Suka waktu sendiri**: selama topiknya menarik, aku suka bicara dengan orang lain (jadi extrovert dadakan malah), tapi setelah 2 jam lebih -- aku capek, butuh waktu sendiri. Waktu sendiri yang tenang tanpa keributan bikin aku ngerasa lebih fokus & kreatif. Ngerasa kesepian? sering, tapi menurutku itu normal-normal aja asal gak berlebihan.
+- **Suka waktu sendiri**: selama topiknya ~~dan orangnya~~ menarik, aku suka bicara dengan orang lain (jadi extrovert dadakan malah), tapi setelah 1 jam lebih -- aku capek, butuh waktu sendiri. Waktu sendiri yang tenang tanpa keributan bikin aku ngerasa lebih fokus & kreatif. Ngerasa kesepian? sering, tapi menurutku itu normal-normal aja asal gak berlebihan.
 
 - **Gak tertarik dengan tradisi**: aturan-aturan yang orang "dulu" buat yang jika tak dilakukan bakal ada akibatnya (jangan begini, harus begitu) -- aku gak percaya. Banyak orang yang gak ngikutin tradisi itu, hidupnya gak kenapa-napa.
 
-- **Gak suka tergantung**: banyak orang yang bergantung pada nilai, ijazah, gelar, belas kasih guru, atau "cinta" sebagai validasi kalo dia itu berharga dan berarti -- aku gak cocok dengan itu. Itu membuatku jadi orang dengan **external locus of control**, terlalu fokus dengan hal-hal luar yang gak bisa dikontrol.
+- **Gak suka tergantung**: banyak orang yang bergantung pada nilai, ijazah, gelar, belas kasih guru, atau "cinta" sebagai validasi kalo dia itu berharga dan berarti -- sebisa mungkin aku hindari. Itu membuatku jadi orang dengan **external locus of control**, terlalu fokus dengan hal-hal luar yang gak bisa dikontrol.
 
 ## Hal-hal lain yang aku suka
 
@@ -56,13 +56,13 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 ![gambar](../img/drawing-2.jpg)
 ![gambar](../img/drawing-3.jpg)
 
-- **Kopi & teh**.
+- **Kopi & teh**: Sepertinya aku udah kecanduan dengan 2 minuman ini.
 
 ## Hal-hal lain yang aku gak suka
 
 - **Memberi & menerima hadiah**: entah karena aku pelit atau [karena beberapa hadiah, diberikan dengan maksud tertentu](/hadiah/).
 
-- **Dipuji soal penampilan**: seolah-olah hal yang berharga dari diriku cuma muka doang. Aku juga gak suka harus keluar rumah dengan pusing tentang apa yang orang pikirkan tentang penampilanku.
+- **Dipuji soal penampilan**: memang kenyataan sih kalau aku ini good looking, tapi lama-kelamaan aku gak suka, seolah-olah hal yang berharga dari diriku cuma muka doang. Aku juga gak suka harus keluar rumah dengan pusing tentang apa yang orang pikirkan tentang penampilanku.
 
 - **Negativity**: orang yang mengeluh setiap menit, drama, gosip perceraian, akan kujauhi sebisa mungkin.
 
@@ -88,4 +88,4 @@ Anyway, thank you sudah kepo sampai akhir!
 
 ---
 
-Terakhir diupdate 12 April 2021.
+Terakhir diupdate 17 April 2021.

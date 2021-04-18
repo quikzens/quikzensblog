@@ -239,16 +239,22 @@ li {
 
 /* Header */
 header {
-  display: flex;
-  justify-content: flex-end;
-  margin-bottom: 2rem;
+  margin-bottom: 5rem;
 }
 
 header a {
   display: block;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
   color: var(--black);
+}
+
+header a:hover {
+  transition: 0.3s;
+  text-decoration: none;
+  color: var(--red);
 }
 
 /* Tulisan */

@@ -1,6 +1,6 @@
 baseURL = "https://quikzens.netlify.app/"
 languageCode = "id-id"
-title = "QuikzensBlog"
+title = "Quikzens"
 disableKinds = ["taxonomy", "term"]
 [permalinks]
   tulisan = "/:filename/"

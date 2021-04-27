@@ -66,7 +66,7 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Negativity**: orang yang mengeluh setiap menit, drama, gosip perceraian, akan kujauhi sebisa mungkin.
 
-- **Merasa benar**: menganggap aku benar 100% & orang lain salah 100%, aku gak suka, sifat seperti itu bikin aku jadi susah maafkan orang lain. 
+- **Merasa benar**: menganggap aku benar 100% & orang lain salah 100%, aku tak suka, sifat seperti itu bikin aku jadi susah maafkan orang lain. 
 
 - **Pekerjaan membosankan**: menyalin buku sama persis seperti di buku cetak, menghafal hal-hal yang bisa dicari di google, dsb.
 
@@ -76,7 +76,7 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Aku gak spesial**: [kamu juga tidak](/spesial/)
 
-- **Aku selalu salah**: saat ada hal buruk yang terjadi, aku akan cari kesalahanku dulu (pasti ada, sekecil apapun), baru lihat kesalahan orang lain. Sadar kalau aku juga salah, lebih bijak daripada menganggap kalau aku selalu benar 100%. Aku juga tak percaya kalau mindsetku yang paling benar.
+- **Aku selalu salah**: saat ada hal buruk yang terjadi, aku akan cari kesalahanku dulu (pasti ada, sekecil apapun), baru lihat kesalahan orang lain. Aku juga tak percaya kalau pola pikir & mindsetku yang paling benar.
 
 - **Semua bakal berubah**: teman-temanku, keluargaku, bahkan aku sendiri -- bakal berubah suatu saat nanti, entah itu kesukaan, sifat, atau mindset -- gak bakal sama selamanya. Teman yang dulunya bagaikan saudara tak sedarah, sekarang seperti orang asing karena beda frekuensi? menurutku itu normal. **No change, no grow. No grow, no life**.
 
@@ -88,4 +88,4 @@ Anyway, thank you sudah kepo sampai akhir!
 
 ---
 
-Terakhir diupdate 17 April 2021.
+Terakhir diupdate 21 April 2021, Makassar - Sulawesi Selatan.

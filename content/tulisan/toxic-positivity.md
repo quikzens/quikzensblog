@@ -45,4 +45,4 @@ Dan ingat bro, tak ada orang bahagia yang harus meyakinkan dirinya bahwa dia bah
 
 ---
 
-Hai! tulisan ini adalah bagian kedua dari [#MotivasiBullshit](/motivasi-bullshit/), kumpulan dari motivasi-motivasi omong kosong dan tidak realistis yang aku temukan di internet, jangan lupa untuk baca bagian lainnya agar brengsekmu berkurang!
+Hai! tulisan ini adalah bagian kedua dari [#MotivasiBullshit](/motivasi-bullshit/), kumpulan dari motivasi-motivasi omong kosong dan tidak realistis yang aku temukan di internet, jangan lupa untuk baca [bagian lain](/motivasi-bullshit/) atau [download versi pdf](https://www.dropbox.com/s/8ofiv8rzozttwp7/motivasibullshit.pdf?dl=0/)-nya, agar brengsekmu berkurang!

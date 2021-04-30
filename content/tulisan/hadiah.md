@@ -51,6 +51,6 @@ bersalah, perasaan seperti itu sangat membuatku merasa terganggu
 
 Pelajaran yang aku dapat dari hal ini, kalau mau memberikan hadiah, harus diberikan dengan rasa ikhlas, 
 murni untuk mengekspresikan rasa kasih sayang. Karena kalau punya maksud tertentu bagaikan pup yang disembunyikan 
-dibalik batu,
+di balik batu,
 
 Bukan hadiah namanya.

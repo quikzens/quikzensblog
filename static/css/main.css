@@ -164,6 +164,7 @@ summary {
   --black: #212121;
   --green: #388e3c;
   --red: #f44336;
+  --light-red: #ef9a9a;
   --link: var(--red);
   --light-gray: #f5f5f5;
 }
@@ -262,22 +263,26 @@ li {
 
 header {
   display: flex;
-  justify-content: center;
-  margin-bottom: 5rem;
+  margin-bottom: 7rem;
 }
 
 header a {
   display: block;
+  margin-top: -3rem;
+  padding: 0.5rem 1.5rem;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
   font-size: 1.1rem;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
-  color: var(--black);
+  background-color: var(--black);
+  color: var(--light-gray);
 }
 
 header a:hover {
   transition: 0.3s;
   text-decoration: none;
-  color: var(--red);
+  color: var(--light-red);
 }
 
 
@@ -305,8 +310,16 @@ header a:hover {
 \*------------------------------------*/
 
 .footer {
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+  margin-bottom: -3rem;
   margin-top: 8rem;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 1.5rem;
   font-size: 0.8em;
+  background-color: var(--black);
+  color: var(--light-gray);
 }
 
 .footer ul {
@@ -322,6 +335,10 @@ header a:hover {
 
 .footer li:not(:first-child) {
   margin-left: 20px;
+}
+
+.footer a {
+  color: var(--light-red);
 }
 
 

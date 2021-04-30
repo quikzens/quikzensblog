@@ -3,7 +3,7 @@ title: "Senang dianggap tolol"
 date: 2021-04-27T14:46:00+08:00
 ---
 
-Dulu, aku selalu ingin dianggap pintar, mendapatkan ranking 1 di kelas merupakan hal yang wajib -- karena itu aku akan mengecek jawabanku 5x lebih sebelum mengumpulkannya ke guru saat ujian. Aku tak mau nilaiku lebih rendah dari anak lain di kelas, karena dianggap pintar merupakan satu-satunya hal yang membuatku merasa dihargai oleh orang-orang di sekitarku.
+Dulu, aku selalu ingin dianggap pintar, mendapatkan ranking 1 di kelas merupakan hal yang wajib -- karena itu aku akan mengecek jawabanku 5x lebih sebelum mengumpulkannya ke guru saat ujian. Aku tak mau nilaiku lebih rendah dari anak lain di kelas, karena jadi orang pintar --- merupakan satu-satunya hal yang membuatku merasa dihargai oleh orang-orang di sekitarku.
 
 Hasilnya? aku berhasil mendapatkan ranking 1 beruturut-turut hingga lulus SD dan dianggap pintar oleh banyak orang -- aku juga berhasil menjadi seorang pecundang yang terlalu takut jadi bodoh, takut salah, takut gagal, takut keluar dari zona nyaman. Stagnan, tak melakukan kesalahan artinya tak berkembang, itu semua karena aku takut dengan pendapat orang lain tentangku.
 

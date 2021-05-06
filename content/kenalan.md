@@ -18,7 +18,7 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 ## Timeline
 
-- **2003**: Lahir, ~~dan mulai jadi beban orang tua~~
+- **2003**: Lahir, ~~dan mulai jadi beban orang tua~~.
 - **2009**: Mulai mengenal lingkungan sekolah, dapat ranking 1 berturut-turut hingga lulus SD.
 - **2015**: Di SMP, terpaksa punya kepala yang botak karena peraturan, mulai malas-malasan kerja tugas, sempat di-bully, tak ranking 1 lagi.
 - **2018**: Di SMA, bisa punya rambut yang panjang lagi, malas-kerja-tugas nya menjadi-jadi, lebih mementingkan belajar dengan cara sendiri daripada di sekolah, tak mengherankan lulus dengan nilai pas-pasan.
@@ -26,17 +26,17 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 ## "Fakta-fakta" tentangku
 
-- **Aku suka dengan hal yang simple & polos**: Suka pakai baju polos hitam, tak suka memasang stiker untuk benda apapun, tak suka memakai baju yang pakainya aja ngambil banyak waktu seperti celana yang harus pake ikat pinggang, sepatu ikat, dsb (kalo terpaksa, baru aku pake). Intinya, semakin simple, minimalis, & polos (namun tetap berguna) -- aku suka.
+- **Aku suka dengan hal yang simple & polos**: Suka pakai baju polos hitam, tak suka memasang stiker untuk benda apapun, tak suka memakai baju yang pakainya aja ngambil banyak waktu seperti celana yang harus pake ikat pinggang, sepatu ikat, dsb (kalo terpaksa, baru aku pake). Intinya, semakin simple, minimalis, & polos (namun tetap berguna)---aku suka.
 
-- **Yang kebanyakan orang suka, biasanya aku tidak**: Video lucu tiktok, joget depan kamera, k-pop, bola, artis-artis, nilai ijazah -- aku tak tertarik membahas tentang itu. Ini bikin aku susah nyambung dengan kebanyakan orang, aku anggap mereka nge-bosenin, mereka anggap aku gak asik.
+- **Yang kebanyakan orang suka, biasanya aku tidak**: Video lucu tiktok, joget depan kamera, k-pop, bola, artis-artis, nilai ijazah---aku tak tertarik membahas tentang itu. Ini bikin aku susah nyambung dengan kebanyakan orang, aku anggap mereka nge-bosenin, mereka anggap aku gak asik.
 
-- **Punya sedikit teman**: aku punya banyak kenalan, tapi teman yang sering aku temui buat nongkrong -- bisa di itung jari -- itu-itu aja. Bisa jadi karena aku susah nyambung dengan kebanyakan orang.
+- **Punya sedikit teman**: aku punya banyak kenalan, tapi teman yang sering aku temui buat nongkrong---bisa di itung jari---itu-itu aja. Bisa jadi karena aku susah nyambung dengan kebanyakan orang.
 
-- **Suka waktu sendiri**: selama topiknya ~~dan orangnya~~ menarik, aku suka bicara dengan orang lain (jadi extrovert dadakan malah), tapi setelah 1 jam lebih -- aku capek, butuh waktu sendiri. Waktu sendiri yang tenang tanpa keributan bikin aku ngerasa lebih fokus & kreatif. Ngerasa kesepian? sering, tapi menurutku itu normal-normal aja asal gak berlebihan.
+- **Suka waktu sendiri**: selama topiknya ~~dan orangnya~~ menarik, aku suka bicara dengan orang lain (jadi extrovert dadakan malah), tapi setelah 1 jam lebih---aku capek, butuh waktu sendiri. Waktu sendiri yang tenang tanpa keributan bikin aku ngerasa lebih fokus & kreatif. Ngerasa kesepian? sering, tapi menurutku itu normal-normal aja asal ga berlebihan.
 
-- **Gak tertarik dengan tradisi**: aturan-aturan yang orang "dulu" buat yang jika tak dilakukan bakal ada akibatnya (jangan begini, harus begitu) -- aku gak percaya. Banyak orang yang gak ngikutin tradisi itu, hidupnya gak kenapa-napa.
+- **Ga tertarik dengan tradisi**: aturan-aturan yang orang "dulu" buat yang jika tak dilakukan bakal ada akibatnya (jangan begini, harus begitu)---aku ga percaya. Banyak orang yang ga ngikutin tradisi itu, hidupnya ga kenapa-napa.
 
-- **Gak suka tergantung**: banyak orang yang bergantung pada nilai, ijazah, gelar, belas kasih guru, atau "cinta" sebagai validasi kalo dia itu berharga dan berarti -- sebisa mungkin aku hindari. Itu membuatku jadi orang dengan **external locus of control**, terlalu fokus dengan hal-hal luar yang gak bisa dikontrol.
+- **Ga suka tergantung**: banyak orang yang bergantung pada nilai, ijazah, gelar, belas kasih guru, atau "cinta" sebagai validasi kalo dia itu berharga dan berarti---sebisa mungkin aku hindari. Itu membuatku jadi orang dengan **external locus of control**, terlalu fokus dengan hal-hal luar yang ga bisa dikontrol.
 
 ## Hal-hal lain yang aku suka
 
@@ -66,7 +66,7 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Psychology & Mental Health**: ini topik yang sangat aku suka! Seperti belajar tentang emosi/perasaan yang mempengaruhi hampir setiap hal yang kita lakukan, cara kerja otak kita, juga tentang kesehatan mental dan anxiety/kecemasan.
 
-- **Kopi & teh**: Sepertinya aku udah kecanduan dengan 2 minuman ini.
+- **Kopi & teh**: Sepertinya aku sudah kecanduan dengan 2 minuman ini.
 
 ## Hal-hal lain yang aku tak suka
 
@@ -96,4 +96,4 @@ Anyway, thank you sudah kepo sampai akhir!
 
 ---
 
-Terakhir diupdate 21 April 2021, Makassar - Sulawesi Selatan.
+Terakhir diupdate 6 Mei 2021, Makassar - Sulawesi Selatan.

@@ -8,6 +8,14 @@ title: "Kenalan lebih jauh"
 
 Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau Rian aja, dan tujuan halaman ini -- murni mengekspresikan diri, aku gak peduli ini berguna atau tidak, tapi kali aja setelah baca ini kamu ngerasa nyambung denganku.
 
+## Daftar Isi
+
+- Timeline
+- "Fakta-fakta" tentangku
+- Hal-hal lain yang aku suka
+- Hal-hal lain yang aku ga suka
+- Beberapa mindset yang aku pegang
+
 ## Timeline
 
 - **2003**: Lahir, ~~dan mulai jadi beban orang tua~~
@@ -56,9 +64,11 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 ![gambar](../img/drawing-2.jpg)
 ![gambar](../img/drawing-3.jpg)
 
+- **Psychology & Mental Health**: ini topik yang sangat aku suka! Seperti elajar tentang emosi/perasaan yang mempengaruhi hampir setiap hal yang kita lakukan, cara kerja otak kita, juga tentang kesehatan mental dan anxiety/kecemasan.
+
 - **Kopi & teh**: Sepertinya aku udah kecanduan dengan 2 minuman ini.
 
-## Hal-hal lain yang aku gak suka
+## Hal-hal lain yang aku ga suka
 
 - **Memberi & menerima hadiah**: entah karena aku pelit atau [karena beberapa hadiah, diberikan dengan maksud tertentu](/hadiah/).
 

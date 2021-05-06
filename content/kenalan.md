@@ -6,14 +6,14 @@ title: "Kenalan lebih jauh"
 <img src="../img/photo.jpg" style="display: block; width: 150px; border-radius: 50%;">
 {{< /rawhtml >}}
 
-Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau Rian aja, dan tujuan halaman ini -- murni mengekspresikan diri, aku gak peduli ini berguna atau tidak, tapi kali aja setelah baca ini kamu ngerasa nyambung denganku.
+Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau Rian aja, dan tujuan halaman ini---murni mengekspresikan diri, aku tak peduli ini berguna atau tidak.
 
 ## Daftar Isi
 
 - Timeline
 - "Fakta-fakta" tentangku
 - Hal-hal lain yang aku suka
-- Hal-hal lain yang aku ga suka
+- Hal-hal lain yang aku tak suka
 - Beberapa mindset yang aku pegang
 
 ## Timeline
@@ -56,25 +56,23 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Reading**: membaca salah satu kebutuhanku, uangku habis banyak buat beli buku, aku lahap habis satu novel dalam 1-2 hari (kalo nganggur). Saat membaca aku serius, berimajinasi dan seolah-olah merasakan sendiri jalan ceritanya.
 
-- **Movie**: aku suka film "full-imagination" seperti Avengers & sains-fiksi lainnya, tapi tidak dengan film romantis/semi-porn/full-drama.
+- **Movie**: aku suka film action dan "full-imagination" seperti Avengers & sains-fiksi lainnya, tapi tidak dengan film romantis/semi-porn/full-drama.
 
-- **Drawing**: mungkin lebih cocok kalau dibilang nge-jiplak, aku akan cari gambar di internet, nyalakan musik, minum kopi, dan mulai menggambar -- jadi orang serius yang tak peduli keadaan sekitar.
+- **Drawing**: mungkin lebih cocok kalau dibilang nge-jiplak, aku akan cari gambar di internet, nyalakan musik, minum kopi, dan mulai menggambar---jadi orang serius yang tak peduli keadaan sekitar.
 
 ![gambar](../img/drawing-1.jpg)
 ![gambar](../img/drawing-2.jpg)
 ![gambar](../img/drawing-3.jpg)
 
-- **Psychology & Mental Health**: ini topik yang sangat aku suka! Seperti elajar tentang emosi/perasaan yang mempengaruhi hampir setiap hal yang kita lakukan, cara kerja otak kita, juga tentang kesehatan mental dan anxiety/kecemasan.
+- **Psychology & Mental Health**: ini topik yang sangat aku suka! Seperti belajar tentang emosi/perasaan yang mempengaruhi hampir setiap hal yang kita lakukan, cara kerja otak kita, juga tentang kesehatan mental dan anxiety/kecemasan.
 
 - **Kopi & teh**: Sepertinya aku udah kecanduan dengan 2 minuman ini.
 
-## Hal-hal lain yang aku ga suka
+## Hal-hal lain yang aku tak suka
 
 - **Memberi & menerima hadiah**: entah karena aku pelit atau [karena beberapa hadiah, diberikan dengan maksud tertentu](/hadiah/).
 
-- **Dipuji soal penampilan**: memang kenyataan sih kalau aku ini good looking, tapi lama-kelamaan aku gak suka, seolah-olah hal yang berharga dari diriku cuma muka doang. Aku juga gak suka harus keluar rumah dengan pusing tentang apa yang orang pikirkan tentang penampilanku.
-
-- **Negativity**: orang yang mengeluh setiap menit, drama, gosip perceraian, akan kujauhi sebisa mungkin.
+- **Dipuji soal penampilan**: memang kenyataan sih kalau aku ini good looking (songong mode: ON), tapi lama-kelamaan aku tak suka, seolah-olah hal yang berharga dari diriku cuma muka (cuma muka!!?). Aku juga tak suka harus keluar rumah dengan pusing tentang apa yang orang pikirkan tentang penampilanku.
 
 - **Merasa benar**: menganggap aku benar 100% & orang lain salah 100%, aku tak suka, sifat seperti itu bikin aku jadi susah maafkan orang lain. 
 
@@ -88,7 +86,7 @@ Hai amigo! Nama lengkapku Febrian Amir, tapi kamu bisa panggil aku Febrian atau 
 
 - **Aku selalu salah**: saat ada hal buruk yang terjadi, aku akan cari kesalahanku dulu (pasti ada, sekecil apapun), baru lihat kesalahan orang lain. Aku juga tak percaya kalau pola pikir & mindsetku yang paling benar.
 
-- **Semua bakal berubah**: teman-temanku, keluargaku, bahkan aku sendiri -- bakal berubah suatu saat nanti, entah itu kesukaan, sifat, atau mindset -- gak bakal sama selamanya. Teman yang dulunya bagaikan saudara tak sedarah, sekarang seperti orang asing karena beda frekuensi? menurutku itu normal. **No change, no grow. No grow, no life**.
+- **Semua bakal berubah**: teman-temanku, keluargaku, bahkan aku sendiri---bakal berubah suatu saat nanti, entah itu kesukaan, sifat, atau mindset---gak bakal sama selamanya. Teman yang dulunya bagaikan saudara tak sedarah, sekarang seperti orang asing karena beda frekuensi? menurutku itu normal. **No change, no grow. No grow, no life**.
 
 ---
 

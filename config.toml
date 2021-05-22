@@ -1,8 +1,7 @@
 baseURL = "https://quikzens.netlify.app/"
 languageCode = "id-id"
-title = "Quikzens"
+title = "Febrian Amir | @quikzens"
 disableKinds = ["taxonomy", "term"]
 [permalinks]
   tulisan = "/:filename/"
   rekomendasi = "/:filename/"
-  buku = "/:filename/"

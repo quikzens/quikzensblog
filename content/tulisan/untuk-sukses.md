@@ -3,7 +3,7 @@ title: "23 Hal yang dibutuhkan untuk jadi sukses"
 date: 2021-05-17T18:02:34+08:00
 ---
 
-Setelah ~~ngehalu~~ mikir selama beberapa waktu, dengan iseng aku menuliskan tentang 23 hal yang tampaknya aku butuhkan untuk jadi sukses. Hal-hal yang belum aku punya saat ini, dan mungkin (kuharap) akan aku punya di suatu hari nanti.
+Setelah ~~ngehalu~~ mikir selama beberapa waktu, dengan iseng aku menuliskan tentang 23 hal yang tampaknya aku butuhkan untuk jadi sukses. Hal-hal yang belum aku punya saat ini, dan (kuharap) akan aku punya suatu saat nanti.
 
 Aku menuliskannya dalam bahasa inggris, bahasa inggris yang pas-pasan, ke dalam buku diary-ku:
 

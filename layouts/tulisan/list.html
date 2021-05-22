@@ -5,6 +5,21 @@
   {{- partial "head.html" . -}}
   <link rel="icon" href="../img/favicon.ico">
   <link rel="stylesheet" href="../css/main.css">
+  <style>
+    .book-list {
+      list-style: none; 
+      padding: 0; 
+      margin-top: 4rem;
+      max-width: 300px;
+    }
+    .book-item {
+      box-shadow: 0 0 15px rgba(12, 12, 12, 0.3);
+      transition: 0.4s;
+    }
+    .book-item:hover {
+      transform: scale(1.02);
+    }
+  </style>
 </head>
 <body>
   <main>
@@ -12,14 +27,26 @@
     {{- partial "header.html" . -}}
 
     <section>
-      <h1 class="stylish-heading">Tulisan</h1>
+      <h2 class="stylish-heading">Tulisan</h2>
       <ol class="list-tulisan" reversed>
         {{ range .Pages }}
           <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
           </li>
         {{ end }}
-      </ol>
+      </ol>      
+    </section>
+      
+    <section>
+      <h2 class="stylish-heading">Buku</h2>
+      <p>Kadang, aku membuat tulisan yang satu sama lainnya berhubungan, jadi kayak ada part-nya gitu.</p>
+      <p>So, aku mengumpulkan tulisan yang berhubungan ini ke dalam satu document pdf yang bisa kamu download secara gratis. Enjoy!</p>
+      <p>(klik cover buku untuk link downloadnya)</p>
+      <ul class="book-list">
+        <li class="book-item">
+          <a href="https://www.dropbox.com/s/8v9fvrqb6f6xqnp/motivasibullshit.pdf?dl=0" target="_blank"><img src="../img/motivasi-bullshit.png" alt="Motivasi Bullshit"></a>
+        </li>
+      </ul>
     </section>
 
     {{- partial "footer.html" . -}}

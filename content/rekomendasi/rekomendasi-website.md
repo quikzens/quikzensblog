@@ -25,6 +25,6 @@ Kunjungi: [sive.rs](https://sive.rs/)
 
 ## 4. Mark Manson
 
-Mark Manson ini seorang penulis tentang hal-hal seperti self-development, feeling & emotions, dan relationship, namun bedanya, tulisan-tulisannya sangat realistis dan sangat banyak dari tulisannya yang berdasarkan fakta dan data sains (A.K.A Life Advice That Doesn't Suck). Yang paling kusuka adalah dari gaya penulisannya yang sangat menghibur, anti bullshit, dan disisipi banyak sekali kata-kata kasar (dalam bahasa inggris tentunya).
+Mark Manson ini seorang penulis tentang hal-hal seperti self-development, feeling/emotions, dan relationship, namun bedanya, tulisan-tulisannya sangat realistis dan sangat banyak dari tulisannya yang berdasarkan fakta dan data sains (A.K.A Life Advice That Doesn't Suck). Yang paling kusuka adalah dari gaya penulisannya yang sangat menghibur, anti bullshit, dan disisipi banyak sekali kata-kata kasar (dalam bahasa inggris tentunya).
 
 Kunjungi: [markmanson.net](https://markmanson.net/)

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <title>Tulisan</title>
+  {{- partial "head.html" . -}}
+  <link rel="icon" href="../img/favicon.ico">
+  <link rel="stylesheet" href="../css/main.css">
+  <style>
+    :root {
+      --link: #2e7d32;
+      --link-dark: #81c784;
+    }
+    .kodezens-logo {
+      max-width: 75px;
+    }
+    h2.stylish-heading {
+      margin: 1.5rem 0;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    
+    {{- partial "header.html" . -}}
+
+    <section>
+      <img src="../img/kodezens-logo.png" alt="Logo Kodezens" class="kodezens-logo">
+      <h2 class="stylish-heading">Kodezens</h2>
+      <p>Berbeda dengan <a href="/tulisan/">blog utama</a>, di halaman ini hanya berisi tulisan-tulisan yang khusus membahas tentang programming. So, I hope you enjoy it!</p>
+      <ol class="list-tulisan" reversed>
+        {{ range .Pages }}
+          <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ol>      
+    </section>
+
+    {{- partial "footer.html" . -}}
+    
+  </main>
+</body>
+</html>

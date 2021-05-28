@@ -352,3 +352,16 @@ header a:hover {
   line-height: 1;
   color: var(--black);
 }
+
+.mt-2,
+.mt-5 {
+  display: block;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}
+
+.mt-5 {
+  margin-top: 5rem;
+}

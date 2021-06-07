@@ -1,43 +1,38 @@
-<!doctype html>
-<html lang="id">
-<head>
+{{ define "title" }}
   <title>Kodezens</title>
-  {{- partial "head.html" . -}}
-  <link rel="icon" href="../img/favicon.ico">
-  <link rel="stylesheet" href="../css/main.css">
+{{ end }}
+
+{{ define "source" }}
+  <link rel="icon" href="../src/img/favicon.ico">
+  <link rel="stylesheet" href="../src/css/normalize.css">
+  <link rel="stylesheet" href="../src/css/reset.css">
+  <link rel="stylesheet" href="../src/css/main.css">
   <style>
     :root {
-      --link: #2e7d32;
-      --link-dark: #81c784;
+      --clr-brand: #2e7d32;
     }
     .kodezens-logo {
       max-width: 75px;
     }
-    h2.stylish-heading {
-      margin: 1.5rem 0;
+    .heading-2 {
+      margin-top: 1.5rem;
     }
   </style>
-</head>
-<body>
-  <main>
-    
-    {{- partial "header.html" . -}}
+{{ end }}
 
-    <section>
-      <img src="../img/kodezens-logo.png" alt="Logo Kodezens" class="kodezens-logo">
-      <h2 class="stylish-heading">Kodezens</h2>
-      <p>Berbeda dengan <a href="/tulisan/">blog utama</a>, di halaman ini hanya berisi tulisan-tulisan yang khusus membahas tentang programming saja. So, I hope you enjoy it!</p>
-      <ol class="list-tulisan" reversed>
-        {{ range .Pages }}
-          <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-        {{ end }}
-      </ol>      
-    </section>
-
-    {{- partial "footer.html" . -}}
-    
+{{ define "main" }}
+  {{- partial "header.html" . -}}
+  
+  <main class="main">
+    <img src="../src/img/kodezens-logo.png" alt="Logo Kodezens" class="kodezens-logo">
+    <h2 class="heading-2">Kodezens</h2>
+    <p>Berbeda dengan <a href="/tulisan/">blog utama</a>, di halaman ini hanya berisi tulisan-tulisan yang khusus membahas tentang programming saja. I hope you enjoy it!</p>
+    <ol class="list" reversed>
+      {{ range .Pages }}
+        <li class="list-item">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ol>   
   </main>
-</body>
-</html>
+{{ end }}

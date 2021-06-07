@@ -3,6 +3,7 @@ languageCode = "id-id"
 title = "Febrian Amir | @quikzens"
 disableKinds = ["taxonomy", "term"]
 [permalinks]
-  tulisan = "/:filename/"
+  blog = "/:filename/"
+  cerpen = "/:filename/"
   rekomendasi = "/:filename/"
   kodezens = "/:filename/"

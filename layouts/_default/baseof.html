@@ -1,13 +1,16 @@
 <!doctype html>
 <html lang="id">
 <head>
+  {{- block "title" . }}{{- end }}
+  {{- partial "source.html" . -}}
   {{- partial "head.html" . -}}
-  <link rel="icon" href="./img/favicon.ico">
-  <link rel="stylesheet" href="./css/main.css">
+  {{- block "source" . }}{{- end }}
 </head>
 <body>
-  <main>
+
+  <div class="container">
     {{- block "main" . }}{{- end }}
-  </main>
+  </div>
+
 </body>
 </html>

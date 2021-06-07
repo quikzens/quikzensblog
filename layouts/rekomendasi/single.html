@@ -1,27 +1,22 @@
-<!doctype html>
-<html lang="id">
-<head>
-  {{- partial "head.html" . -}}
-  <link rel="icon" href="../../img/favicon.ico">
-  <link rel="stylesheet" href="../../css/main.css">
-</head>
-<body>
-  <main>
+{{ define "source" }}
+  <link rel="icon" href="../src/img/favicon.ico">
+  <link rel="stylesheet" href="../src/css/normalize.css">
+  <link rel="stylesheet" href="../src/css/reset.css">
+  <link rel="stylesheet" href="../src/css/main.css">
+{{ end }}
 
-    {{- partial "header.html" . -}}
-
+{{ define "main" }}
+  {{- partial "header.html" . -}}
+  
+  <main class="main">
     <article class="article">
-      <div class="article-content">
-        <h1 class="stylish-heading">{{ .Title }}</h1>
-        <div>
-          {{ .Content }}
-        </div>
+      <h1 class="article-title heading-2">{{ .Title }}</h1>
+      <div>
+        {{ .Content }}
       </div>
     </article>
-    <a href="/rekomendasi/" class="mt-5">Baca rekomendasi lainnya</a>
-
-    {{- partial "footer.html" . -}}
-
+    <button class="btn">
+      <a href="/rekomendasi/">Baca rekomendasi lainnya</a>
+    </button>
   </main>
-</body>
-</html>
+{{ end }}

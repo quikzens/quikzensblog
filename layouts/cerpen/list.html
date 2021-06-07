@@ -1,3 +1,7 @@
+{{ define "title" }}
+  <title>Cerpen</title>
+{{ end }}
+
 {{ define "source" }}
   <link rel="icon" href="../src/img/favicon.ico">
   <link rel="stylesheet" href="../src/css/normalize.css">
@@ -9,10 +13,13 @@
   {{- partial "header.html" . -}}
   
   <main class="main">
-    <article class="article">
-      <div>
-        {{ .Content }}
-      </div>
-    </article>
+    <h1 class="heading-2">Cerpen</h1>
+    <ol class="list" reversed>
+      {{ range .Pages }}
+        <li class="list-item">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ol>
   </main>
 {{ end }}

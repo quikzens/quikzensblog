@@ -3,7 +3,8 @@ title: "Kenalan lebih jauh"
 ---
 
 {{< rawhtml >}}
-<img src="../img/photo.jpg" style="display: block; width: 150px; border-radius: 50%;">
+<h1 class="heading-2">Kenalan lebih jauh</h1>
+<img src="../src/img/photo.jpg" style="display: block; width: 150px; border-radius: 50%;">
 {{< /rawhtml >}}
 
 Hai! Namaku Febrian Amir, biasa dipanggil Rian. Tujuan halaman ini, murni mengekspresikan diri, aku tak peduli ini berguna atau tidak.
@@ -44,13 +45,13 @@ Hai! Namaku Febrian Amir, biasa dipanggil Rian. Tujuan halaman ini, murni mengek
 
 - **Programming**: aku paling suka lihat kode program berwarna-warni dengan tema dark, membuat program/website dimana aku yang mengatur semua hal yang terjadi didalamnya itu sangat menyenangkan, ditambah problem solving (stress diawal, ngerasa genius kalau masalahnya selesai)
 
-![gambar](../img/prog.png)
+![gambar](../src/img/prog.png)
 
 - **Design**: aku suka bermain dengan warna & bentuk font, ngeliat desain yang simple, minimalis & unik buat aku senang. Beberapa quote yang aku desain:
 
-![gambar](../img/design-1.png)
-![gambar](../img/design-2.png)
-![gambar](../img/design-3.png)
+![gambar](../src/img/design-1.png)
+![gambar](../src/img/design-2.png)
+![gambar](../src/img/design-3.png)
 
 - **Writing**: dengan adanya blog ini, sudah jelas kalau [aku suka nulis](/kenapa-nulis/).
 
@@ -60,13 +61,11 @@ Hai! Namaku Febrian Amir, biasa dipanggil Rian. Tujuan halaman ini, murni mengek
 
 - **Drawing**: mungkin lebih cocok kalau dibilang nge-jiplak, aku akan cari gambar di internet, nyalakan musik, minum kopi, dan mulai menggambar---jadi orang serius yang tak peduli keadaan sekitar.
 
-![gambar](../img/drawing-1.jpg)
-![gambar](../img/drawing-2.jpg)
-![gambar](../img/drawing-3.jpg)
+![gambar](../src/img/drawing-1.jpg)
+![gambar](../src/img/drawing-2.jpg)
+![gambar](../src/img/drawing-3.jpg)
 
 - **Psychology & Mental Health**: ini topik yang sangat aku suka! Belajar tentang emosi/perasaan yang mempengaruhi hampir setiap hal yang kita lakukan, cara kerja otak kita, juga tentang kesehatan mental dan anxiety/kecemasan.
-
-- **Kopi & teh**: Sepertinya aku kecanduan dengan 2 minuman ini.
 
 ## Hal spesifik yang aku tak suka
 
@@ -86,7 +85,7 @@ Hai! Namaku Febrian Amir, biasa dipanggil Rian. Tujuan halaman ini, murni mengek
 
 - **Semua orang bisa salah, termasuk aku**: saat ada hal buruk yang terjadi, aku akan cari kesalahanku dulu (biasanya ada, sekecil apapun). Baru lihat kesalahan orang lain. Kadang, aku bahkan tak percaya dengan isi pikiran dan pendapatku sendiri.
 
-- **Semua bakal berubah**: teman-teman, keluarga, bahkan aku sendiri, akan berubah suatu saat nanti. Entah itu kesukaan, sifat, atau mindset, tak akan sama selamanya. Teman yang dulunya bagaikan saudara tak sedarah, sekarang seperti orang asing karena beda frekuensi? itu hal yang normal.
+- **Semua bakal berubah**: teman-teman, keluarga, bahkan aku sendiri, akan berubah suatu saat nanti. Entah itu kesukaan, sifat, atau mindset, tak akan sama selamanya.
 
 ---
 
@@ -96,4 +95,4 @@ Anyway, thank you sudah kepo sampai akhir!
 
 ---
 
-Terakhir diupdate 17 Mei 2021, Makassar - Sulawesi Selatan.
+Terakhir diupdate 5 Juni 2021, Makassar - Sulawesi Selatan.

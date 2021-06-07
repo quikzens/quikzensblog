@@ -1,14 +1,12 @@
-<!doctype html>
-<html lang="id">
-<head>
-  {{- partial "head.html" . -}}
-  <link rel="icon" href="../../img/favicon.ico">
-  <link rel="stylesheet" href="../../css/main.css">
+{{ define "source" }}
+  <link rel="icon" href="../src/img/favicon.ico">
+  <link rel="stylesheet" href="../src/css/normalize.css">
+  <link rel="stylesheet" href="../src/css/reset.css">
+  <link rel="stylesheet" href="../src/css/main.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet"> 
   <style>
     :root {
-      --link: #2e7d32;
-      --link-dark: #81c784;
+      --clr-brand: #2e7d32;
     }
     pre {
       margin-left: -1.5rem;
@@ -22,24 +20,24 @@
       font-size: 0.9rem;
     }
   </style>
-</head>
-<body>
-  <main>
+{{ end }}
 
-    {{- partial "header.html" . -}}
-
+{{ define "main" }}
+  {{- partial "header.html" . -}}
+  
+  <main class="main">
     <article class="article">
-      <div class="article-content">
-        <h1 class="article-title">{{ .Title }}</h1>
-        <div>
-          {{ .Content }}
-        </div>
+      <p class="article-category">
+        <a href="/kodezens/">kodezens</a>
+      </p>
+      <h1 class="article-title">{{ .Title }}</h1>
+      <p class="article-date">{{ .Date.Format "02-01-2006" }}</p>
+      <div>
+        {{ .Content }}
       </div>
     </article>
-    <a href="/kodezens/" class="mt-5">Baca tulisan tentang programming lainnya</a>
-
-    {{- partial "footer.html" . -}}
-
+    <button class="btn">
+      <a href="/kodezens/">Baca tulisan tentang programming lainnya</a>
+    </button>
   </main>
-</body>
-</html>
+{{ end }}

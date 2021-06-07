@@ -1,17 +1,52 @@
+{{ define "source" }}
+  <link rel="icon" href="./src/img/favicon.ico">
+  <link rel="stylesheet" href="./src/css/normalize.css">
+  <link rel="stylesheet" href="./src/css/reset.css">
+  <link rel="stylesheet" href="./src/css/main.css">
+{{ end }}
+
 {{ define "main" }}
-<div class="homepage">
+  <main class="main">
 
-  <section>
+    <section class="section">
+      <h1 class="heading-1">halo! nama <br> gua <span>febrian</span></h1>
+      <p>Singkatnya, gua orang yang suka mikir, nulis, dan bikin sesuatu:</p>
 
-    <h1>Hai! Namaku <br> Rian, dan <br> salam kenal!</h1>
-    <p>Suka <del>ngehalu</del> mikir, nanya, dan bikin karya. Cekidot!</p>
-    <ul>
-      <li><a href="/tulisan/">Tulisan & Buku</a></li>
-      <li><a href="/kodezens/">Kodezens</a> (blog tentang programming)</li>
-      <li><a href="/rekomendasi/">Rekomendasi</a></li>
-    </ul>
-    
-  </section>
+      <div class="btn-list">
+        <button class="btn">
+          <a href="/blog/">blog</a>
+        </button>
+        <button class="btn">
+          <a href="/cerpen/">cerpen</a>
+        </button>
+        <button class="btn">
+          <a href="/buku/">buku</a>
+        </button>
+        <button class="btn">
+          <a href="/kodezens/">kodezens</a>
+        </button>
+        <button class="btn">
+          <a href="/rekomendasi/">rekomendasi</a>
+        </button>
+      </div>
+    </section>
 
-</div>
+    <section class="section">
+      <h2 class="heading-2">kontak</h2>
+      <p>Ingin bertanya? diskusi? kenalan? sekedar bilang hai? Hubungi gua lewat: <a href="https://t.me/quikzens/">Telegram</a> atau <a href="https://www.instagram.com/quikzens/">Instagram</a></p>
+    </section>
+
+    <section class="section">
+      <h2 class="heading-2">kenal lebih jauh?</h2>
+      <p>Coba deh baca tulisan ini: <a href="/kenalan/">About Me</a>. Siapa tau kita se-frekuensi...</p>
+    </section>
+
+    <section class="section">
+      <h2 class="heading-2">info penting</h2>
+      <p>Tulisan yang ada di website ini biasanya berasal dari pengalaman & pendapat pribadi gua sendiri, meski tak menutup kemungkinan gua akan melakukan riset kecil-kecilan untuk memastikan gua tidak menulis tulisan yang sok tau & asal-asalan.</p>
+      <p>Intinya, jangan percaya 100% pada apa yang gua tulis disini. Cari sumber yang lain. Bereksperimen sendiri untuk cari tau apakah saran yang ada di blog ini memang cocok untuk kalian atau tidak. Ambil sebanyak mungkin "emas" dari tulisan gua, buang "pup"-nya.</p>
+      <p>Keep Learning. Keep Thinking. Be Smart.</p>
+    </section>
+
+  </main>
 {{ end }}

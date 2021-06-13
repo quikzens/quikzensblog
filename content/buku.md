@@ -15,13 +15,12 @@ berhubungan ini ke dalam satu
 document pdf yang bisa kamu 
 download secara gratis. Enjoy!
 
-(klik cover buku untuk link 
-downloadnya)
+(klik cover buku untuk download)
 
 {{< rawhtml >}}
 <ul class="book-list">
   <li class="book-item">
-    <a href="https://www.dropbox.com/s/8v9fvrqb6f6xqnp/motivasibullshit.pdf?dl=0" target="_blank"><img src="../src/img/motivasi-bullshit.png" alt="Motivasi Bullshit"></a>
+    <a href="./pdf/motivasibullshit.pdf" download><img src="../src/img/motivasibullshit.png" alt="Motivasi Bullshit"></a>
   </li>
 </ul>
 {{</ rawhtml >}}

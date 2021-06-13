@@ -20,7 +20,7 @@ download secara gratis. Enjoy!
 {{< rawhtml >}}
 <ul class="book-list">
   <li class="book-item">
-    <a href="./pdf/motivasibullshit.pdf" download><img src="../src/img/motivasibullshit.png" alt="Motivasi Bullshit"></a>
+    <a href="../pdf/motivasibullshit.pdf" download><img src="../src/img/motivasibullshit.png" alt="Motivasi Bullshit"></a>
   </li>
 </ul>
 {{</ rawhtml >}}
